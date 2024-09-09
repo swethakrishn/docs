@@ -1,4 +1,4 @@
 # docs
-Important documents
+Important documents!
 
-- Resume/CV:
+- [Resume/CV](https://github.com/swethakrishn/docs/blob/main/Swetha_Krishnan_Resume.pdf)
